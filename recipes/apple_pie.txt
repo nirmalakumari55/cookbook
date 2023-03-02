@@ -9,7 +9,7 @@ sugar
 apples
 <<<<<<< HEAD
 =======
-1 tb spoon of cinnamon
+ cinnamon
 
 This is my change 2
 >>>>>>> nirmala
