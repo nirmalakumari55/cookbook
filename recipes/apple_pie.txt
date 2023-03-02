@@ -7,9 +7,5 @@ butter
 flour
 sugar
 apples
-<<<<<<< HEAD
-=======
- cinnamon
 
-This is my change 2
->>>>>>> nirmala
+This is my new addition in master to merge to 'nirmala' branch
