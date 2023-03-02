@@ -1,3 +1,11 @@
 th
 this is the git1
 i this is the 
+pastry
+butter
+flour
+sugar
+apples
+cinnamon
+
+This is my change 2
