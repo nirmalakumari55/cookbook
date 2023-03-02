@@ -1,3 +1,4 @@
+
 th
 this is the git1
 i this is the 
@@ -6,3 +7,9 @@ butter
 flour
 sugar
 apples
+<<<<<<< HEAD
+=======
+1 tb spoon of cinnamon
+
+This is my change 2
+>>>>>>> nirmala
