@@ -1,11 +1,7 @@
-
-th
-this is the git1
-i this is the 
 pastry
 butter
 flour
 sugar
 apples
+1 tbsp cinnamon
 
-This is my new addition in master to merge to 'nirmala' branch
