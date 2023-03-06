@@ -5,7 +5,3 @@ sugar
 apples
 1 tbsp cinnamon
 This is my change 2
-add 10 more appls
-salt
-more eggs
-eggs
